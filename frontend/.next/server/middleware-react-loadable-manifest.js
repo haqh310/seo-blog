@@ -1,1 +1,1 @@
-self.__REACT_LOADABLE_MANIFEST={}
+self.__REACT_LOADABLE_MANIFEST={"..\\components\\crud\\BlogCreate.js -> react-quill":{id:1167,files:["static/chunks/eabe11fc.ebc1ecf341767b87.js","static/chunks/796.5f0c6aede4c41fe0.js"]},"..\\components\\crud\\BlogUpdate.js -> react-quill":{id:1167,files:["static/chunks/eabe11fc.ebc1ecf341767b87.js","static/chunks/796.5f0c6aede4c41fe0.js"]}};

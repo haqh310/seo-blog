@@ -1,3 +1,4 @@
+import { withRouter } from "next/router";
 import React from "react";
 import { useState } from "react";
 import { resetPassword } from "../../../../actions/auth";
@@ -11,7 +12,7 @@ const ResetPassword = ({ router }) => {
     showForm: true,
   });
 
-  const { newPassword, error, message} = values;
+  const { newPassword, error, message, showForm} = values;
 
   const handleSubmit = (e) => {
     e.preventDefault();
